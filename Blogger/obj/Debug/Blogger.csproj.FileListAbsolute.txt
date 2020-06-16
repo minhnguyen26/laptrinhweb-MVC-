@@ -1,0 +1,974 @@
+E:\laptrinhweb\Blogger\Blogger\bin\Blogger.dll.config
+E:\laptrinhweb\Blogger\Blogger\bin\Blogger.dll
+E:\laptrinhweb\Blogger\Blogger\bin\Blogger.pdb
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\csc.exe
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\csc.exe.config
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\csc.rsp
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\csi.exe
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\csi.exe.config
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\csi.rsp
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.AppContext.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Collections.Immutable.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Console.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.IO.Compression.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.IO.FileSystem.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.IO.Pipes.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Security.AccessControl.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Security.Claims.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.ValueTuple.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Xml.XPath.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\vbc.exe
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\vbc.exe.config
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\vbc.rsp
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\VBCSCompiler.exe
+E:\laptrinhweb\Blogger\Blogger\bin\roslyn\VBCSCompiler.exe.config
+E:\laptrinhweb\Blogger\Blogger\bin\Antlr3.Runtime.dll
+E:\laptrinhweb\Blogger\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\laptrinhweb\Blogger\Blogger\bin\Microsoft.Web.Infrastructure.dll
+E:\laptrinhweb\Blogger\Blogger\bin\Newtonsoft.Json.dll
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.Helpers.dll
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.Mvc.dll
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.Optimization.dll
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.Razor.dll
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.WebPages.Deployment.dll
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.WebPages.dll
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.WebPages.Razor.dll
+E:\laptrinhweb\Blogger\Blogger\bin\WebGrease.dll
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.Helpers.xml
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.Mvc.xml
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.Optimization.xml
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.Razor.xml
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.WebPages.xml
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.WebPages.Deployment.xml
+E:\laptrinhweb\Blogger\Blogger\bin\System.Web.WebPages.Razor.xml
+E:\laptrinhweb\Blogger\Blogger\bin\Newtonsoft.Json.xml
+E:\laptrinhweb\Blogger\Blogger\bin\Antlr3.Runtime.pdb
+E:\laptrinhweb\Blogger\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\laptrinhweb\Blogger\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+E:\laptrinhweb\Blogger\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+E:\laptrinhweb\Blogger\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+E:\laptrinhweb\Blogger\Blogger\obj\Debug\Blogger.dll
+E:\laptrinhweb\Blogger\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Blogger.dll.config
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Blogger.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Blogger.pdb
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csc.exe
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csc.exe.config
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csc.rsp
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csi.exe
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csi.exe.config
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csi.rsp
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Console.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\vbc.exe
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\vbc.rsp
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Helpers.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Mvc.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Optimization.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Razor.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\WebGrease.dll
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Helpers.xml
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Mvc.xml
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Optimization.xml
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Razor.xml
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.xml
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kim Thoa\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Blogger.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Blogger.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Blogger.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csc.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csc.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csc.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csi.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csi.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\csi.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Console.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\vbc.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\vbc.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\EntityFramework.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Helpers.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Mvc.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Optimization.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Razor.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\WebGrease.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\EntityFramework.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Helpers.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Mvc.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Optimization.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.Razor.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\laptrinhweb-master\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+D:\laptrinhweb-master\Blogger\bin\Blogger.dll.config
+D:\laptrinhweb-master\Blogger\bin\Blogger.dll
+D:\laptrinhweb-master\Blogger\bin\Blogger.pdb
+D:\laptrinhweb-master\Blogger\bin\roslyn\csc.exe
+D:\laptrinhweb-master\Blogger\bin\roslyn\csc.exe.config
+D:\laptrinhweb-master\Blogger\bin\roslyn\csc.rsp
+D:\laptrinhweb-master\Blogger\bin\roslyn\csi.exe
+D:\laptrinhweb-master\Blogger\bin\roslyn\csi.exe.config
+D:\laptrinhweb-master\Blogger\bin\roslyn\csi.rsp
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+D:\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.AppContext.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Collections.Immutable.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Console.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Compression.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.IO.FileSystem.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Pipes.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Security.AccessControl.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Claims.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.ValueTuple.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XPath.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\laptrinhweb-master\Blogger\bin\roslyn\vbc.exe
+D:\laptrinhweb-master\Blogger\bin\roslyn\vbc.exe.config
+D:\laptrinhweb-master\Blogger\bin\roslyn\vbc.rsp
+D:\laptrinhweb-master\Blogger\bin\roslyn\VBCSCompiler.exe
+D:\laptrinhweb-master\Blogger\bin\roslyn\VBCSCompiler.exe.config
+D:\laptrinhweb-master\Blogger\bin\Antlr3.Runtime.dll
+D:\laptrinhweb-master\Blogger\bin\EntityFramework.dll
+D:\laptrinhweb-master\Blogger\bin\EntityFramework.SqlServer.dll
+D:\laptrinhweb-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\laptrinhweb-master\Blogger\bin\Microsoft.Web.Infrastructure.dll
+D:\laptrinhweb-master\Blogger\bin\Newtonsoft.Json.dll
+D:\laptrinhweb-master\Blogger\bin\System.Web.Helpers.dll
+D:\laptrinhweb-master\Blogger\bin\System.Web.Mvc.dll
+D:\laptrinhweb-master\Blogger\bin\System.Web.Optimization.dll
+D:\laptrinhweb-master\Blogger\bin\System.Web.Razor.dll
+D:\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Deployment.dll
+D:\laptrinhweb-master\Blogger\bin\System.Web.WebPages.dll
+D:\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Razor.dll
+D:\laptrinhweb-master\Blogger\bin\WebGrease.dll
+D:\laptrinhweb-master\Blogger\bin\EntityFramework.xml
+D:\laptrinhweb-master\Blogger\bin\EntityFramework.SqlServer.xml
+D:\laptrinhweb-master\Blogger\bin\System.Web.Helpers.xml
+D:\laptrinhweb-master\Blogger\bin\System.Web.Mvc.xml
+D:\laptrinhweb-master\Blogger\bin\System.Web.Optimization.xml
+D:\laptrinhweb-master\Blogger\bin\System.Web.Razor.xml
+D:\laptrinhweb-master\Blogger\bin\System.Web.WebPages.xml
+D:\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Deployment.xml
+D:\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Razor.xml
+D:\laptrinhweb-master\Blogger\bin\Newtonsoft.Json.xml
+D:\laptrinhweb-master\Blogger\bin\Antlr3.Runtime.pdb
+D:\laptrinhweb-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\laptrinhweb-master\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+D:\laptrinhweb-master\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+D:\laptrinhweb-master\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+D:\laptrinhweb-master\Blogger\obj\Debug\Blogger.dll
+D:\laptrinhweb-master\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Blogger.dll.config
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Blogger.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Blogger.pdb
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\csc.exe
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\csc.exe.config
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\csc.rsp
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\csi.exe
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\csi.exe.config
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\csi.rsp
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Console.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\vbc.exe
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\vbc.rsp
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\EntityFramework.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.Helpers.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.Mvc.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.Optimization.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.Razor.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.WebPages.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\WebGrease.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\EntityFramework.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.Helpers.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.Mvc.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.Optimization.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.Razor.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.WebPages.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\obj\Debug\Blogger.dll
+C:\Users\Thanh Tung\Downloads\laptrinhweb-master\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Blogger.dll.config
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Blogger.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Blogger.pdb
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\csc.exe
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\csc.exe.config
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\csc.rsp
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\csi.exe
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\csi.exe.config
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\csi.rsp
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Console.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\vbc.exe
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\vbc.rsp
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\EntityFramework.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.Helpers.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.Mvc.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.Optimization.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.Razor.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\WebGrease.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\EntityFramework.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.Helpers.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.Mvc.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.Optimization.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.Razor.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.dll
+C:\Users\Thanh Tung\Downloads\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Blogger.dll.config
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Blogger.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Blogger.pdb
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\csc.exe
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\csc.exe.config
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\csc.rsp
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\csi.exe
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\csi.exe.config
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\csi.rsp
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Console.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\vbc.exe
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\vbc.rsp
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\EntityFramework.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.Helpers.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.Mvc.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.Optimization.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.Razor.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\WebGrease.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\EntityFramework.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.Helpers.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.Mvc.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.Optimization.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.Razor.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Models.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Models.pdb
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Blogger\bin\Models.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Blogger.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Blogger.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Blogger.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\csc.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\csc.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\csc.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\csi.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\csi.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\csi.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Console.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\vbc.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\vbc.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\EntityFramework.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Models.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.Helpers.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.Mvc.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.Optimization.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.Razor.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.WebPages.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\WebGrease.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Models.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Models.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\EntityFramework.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.Helpers.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.Mvc.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.Optimization.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.Razor.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.WebPages.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\obj\Debug\Blogger.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Blogger.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Blogger.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Blogger.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\csc.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\csc.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\csc.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\csi.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\csi.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\csi.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Console.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\vbc.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\vbc.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\EntityFramework.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Models.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.Helpers.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.Mvc.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.Optimization.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.Razor.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.WebPages.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\WebGrease.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Models.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Models.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\EntityFramework.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.Helpers.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.Mvc.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.Optimization.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.Razor.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.WebPages.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\obj\Debug\Blogger.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Blogger\obj\Debug\Blogger.pdb
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Blogger.dll.config
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Blogger.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Blogger.pdb
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\csc.exe
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\csc.exe.config
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\csc.rsp
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\csi.exe
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\csi.exe.config
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\csi.rsp
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Console.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\vbc.exe
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\vbc.rsp
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\EntityFramework.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Models.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.Helpers.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.Mvc.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.Optimization.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.Razor.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.WebPages.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\WebGrease.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Models.pdb
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Models.dll.config
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\EntityFramework.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.Helpers.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.Mvc.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.Optimization.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.Razor.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.WebPages.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\obj\Debug\Blogger.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Blogger.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Blogger.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Blogger.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\csc.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\csc.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\csc.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\csi.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\csi.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\csi.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.AppContext.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Console.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\vbc.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\vbc.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\vbc.rsp
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Antlr3.Runtime.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\EntityFramework.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\EntityFramework.SqlServer.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Models.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Newtonsoft.Json.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.Helpers.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.Mvc.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.Optimization.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.Razor.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.WebPages.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\WebGrease.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Models.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Models.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\EntityFramework.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\EntityFramework.SqlServer.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.Helpers.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.Mvc.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.Optimization.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.Razor.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.WebPages.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Newtonsoft.Json.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Antlr3.Runtime.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\obj\Debug\Blogger.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\obj\Debug\Blogger.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\CKFinder.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Blogger\bin\CKFinder.pdb
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Blogger.dll.config
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Blogger.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Blogger.pdb
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\csc.exe
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\csc.exe.config
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\csc.rsp
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\csi.exe
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\csi.exe.config
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\csi.rsp
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.Managed.Core.targets
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.AppContext.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Collections.Immutable.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Console.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.IO.Compression.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.IO.FileSystem.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.IO.Pipes.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Reflection.Metadata.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Security.AccessControl.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Security.Claims.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Security.Principal.Windows.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.ValueTuple.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Xml.XmlDocument.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Xml.XPath.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\vbc.exe
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\vbc.exe.config
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\vbc.rsp
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\VBCSCompiler.exe
+D:\laptrinhweb\web2-master (1)\Blogger\bin\roslyn\VBCSCompiler.exe.config
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Antlr3.Runtime.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\CKFinder.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\EntityFramework.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\EntityFramework.SqlServer.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Microsoft.Web.Infrastructure.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Models.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Newtonsoft.Json.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.Helpers.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.Mvc.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.Optimization.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.Razor.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.WebPages.Deployment.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.WebPages.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.WebPages.Razor.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\WebGrease.dll
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Models.pdb
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Models.dll.config
+D:\laptrinhweb\web2-master (1)\Blogger\bin\CKFinder.pdb
+D:\laptrinhweb\web2-master (1)\Blogger\bin\EntityFramework.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\EntityFramework.SqlServer.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.Helpers.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.Mvc.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.Optimization.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.Razor.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.WebPages.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.WebPages.Deployment.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\System.Web.WebPages.Razor.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Newtonsoft.Json.xml
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Antlr3.Runtime.pdb
+D:\laptrinhweb\web2-master (1)\Blogger\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\laptrinhweb\web2-master (1)\Blogger\obj\Debug\Blogger.csprojAssemblyReference.cache
+D:\laptrinhweb\web2-master (1)\Blogger\obj\Debug\Blogger.csproj.CoreCompileInputs.cache
+D:\laptrinhweb\web2-master (1)\Blogger\obj\Debug\Blogger.csproj.CopyComplete
+D:\laptrinhweb\web2-master (1)\Blogger\obj\Debug\Blogger.dll
+D:\laptrinhweb\web2-master (1)\Blogger\obj\Debug\Blogger.pdb

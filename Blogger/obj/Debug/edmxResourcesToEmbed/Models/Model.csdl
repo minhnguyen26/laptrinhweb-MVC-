@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BlogTravelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="asia">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="link" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="meta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="hide" Type="Boolean" />
+    <Property Name="order" Type="Int32" />
+    <Property Name="datebegin" Type="DateTime" Precision="0" />
+    <Property Name="IDmenu" Type="Int32" />
+    <NavigationProperty Name="Countries" Relationship="Self.FK_Country_asia" FromRole="asia" ToRole="Country" />
+  </EntityType>
+  <EntityType Name="Country">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="img" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="meta" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="hide" Type="Boolean" />
+    <Property Name="order" Type="Int32" />
+    <Property Name="datebigin" Type="DateTime" Precision="0" />
+    <Property Name="asiaId" Type="Int32" />
+    <NavigationProperty Name="asia" Relationship="Self.FK_Country_asia" FromRole="Country" ToRole="asia" />
+    <Property Name="description1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="menu">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="link" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="meta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="hide" Type="Boolean" />
+    <Property Name="order" Type="Int32" />
+    <Property Name="datebegin" Type="DateTime" Precision="0" />
+  </EntityType>
+  <Association Name="FK_Country_asia">
+    <End Role="asia" Type="Self.asia" Multiplicity="0..1" />
+    <End Role="Country" Type="Self.Country" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="asia">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Country">
+        <PropertyRef Name="asiaId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BlogTravelEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="asias" EntityType="Self.asia" />
+    <EntitySet Name="Countries" EntityType="Self.Country" />
+    <EntitySet Name="menus" EntityType="Self.menu" />
+    <AssociationSet Name="FK_Country_asia" Association="Self.FK_Country_asia">
+      <End Role="asia" EntitySet="asias" />
+      <End Role="Country" EntitySet="Countries" />
+    </AssociationSet>
+    <EntitySet Name="CountryEurus" EntityType="BlogTravelModel.CountryEuru" />
+    <EntitySet Name="EURs" EntityType="BlogTravelModel.EUR" />
+    <AssociationSet Name="FK_CountryEuru_EUR" Association="BlogTravelModel.FK_CountryEuru_EUR">
+      <End Role="EUR" EntitySet="EURs" />
+      <End Role="CountryEuru" EntitySet="CountryEurus" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CountryEuru">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="img" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="description1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="hide" Type="Boolean" />
+    <Property Name="meta" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="order" Type="Int32" />
+    <Property Name="detebegin" Type="DateTime" Precision="0" />
+    <Property Name="EuId" Type="Int32" />
+    <NavigationProperty Name="EUR" Relationship="BlogTravelModel.FK_CountryEuru_EUR" FromRole="CountryEuru" ToRole="EUR" />
+  </EntityType>
+  <EntityType Name="EUR">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="link" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="meta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="hide" Type="Boolean" />
+    <Property Name="order" Type="Int32" />
+    <Property Name="datebegin" Type="DateTime" Precision="0" />
+    <Property Name="Idmenu" Type="Int32" />
+    <NavigationProperty Name="CountryEurus" Relationship="BlogTravelModel.FK_CountryEuru_EUR" FromRole="EUR" ToRole="CountryEuru" />
+  </EntityType>
+  <Association Name="FK_CountryEuru_EUR">
+    <End Type="BlogTravelModel.EUR" Role="EUR" Multiplicity="0..1" />
+    <End Type="BlogTravelModel.CountryEuru" Role="CountryEuru" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EUR">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="CountryEuru">
+        <PropertyRef Name="EuId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

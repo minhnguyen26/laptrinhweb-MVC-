@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="BlogTravelModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="asia">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="link" Type="nvarchar(max)" />
+          <Property Name="meta" Type="nvarchar" MaxLength="50" />
+          <Property Name="hide" Type="bit" />
+          <Property Name="order" Type="int" />
+          <Property Name="datebegin" Type="smalldatetime" />
+          <Property Name="IDmenu" Type="int" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6013: The table/view 'BlogTravel.dbo.Contact' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Contact">
+          <Property Name="id" Type="int" />
+          <Property Name="desciption" Type="ntext" />
+          <Property Name="hoten" Type="nvarchar" MaxLength="50" />
+          <Property Name="emai" Type="nvarchar" MaxLength="50" />
+        </EntityType>-->
+        <EntityType Name="Country">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="img" Type="nvarchar" MaxLength="50" />
+          <Property Name="description" Type="ntext" />
+          <Property Name="meta" Type="nvarchar(max)" />
+          <Property Name="hide" Type="bit" />
+          <Property Name="order" Type="int" />
+          <Property Name="datebigin" Type="smalldatetime" />
+          <Property Name="asiaId" Type="int" />
+          <Property Name="description1" Type="nvarchar(max)" />
+        </EntityType>
+        <EntityType Name="CountryEuru">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="img" Type="nvarchar" MaxLength="50" />
+          <Property Name="description" Type="ntext" />
+          <Property Name="description1" Type="ntext" />
+          <Property Name="hide" Type="bit" />
+          <Property Name="meta" Type="nvarchar(max)" />
+          <Property Name="order" Type="int" />
+          <Property Name="detebegin" Type="smalldatetime" />
+          <Property Name="EuId" Type="int" />
+        </EntityType>
+        <EntityType Name="EUR">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="link" Type="nvarchar(max)" />
+          <Property Name="meta" Type="nvarchar" MaxLength="50" />
+          <Property Name="hide" Type="bit" />
+          <Property Name="order" Type="int" />
+          <Property Name="datebegin" Type="smalldatetime" />
+          <Property Name="Idmenu" Type="int" />
+        </EntityType>
+        <EntityType Name="menu">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="link" Type="nvarchar(max)" />
+          <Property Name="meta" Type="nvarchar" MaxLength="50" />
+          <Property Name="hide" Type="bit" />
+          <Property Name="order" Type="int" />
+          <Property Name="datebegin" Type="smalldatetime" />
+        </EntityType>
+        <Association Name="FK_Country_asia">
+          <End Role="asia" Type="Self.asia" Multiplicity="0..1" />
+          <End Role="Country" Type="Self.Country" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="asia">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="Country">
+              <PropertyRef Name="asiaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CountryEuru_EUR">
+          <End Role="EUR" Type="Self.EUR" Multiplicity="0..1" />
+          <End Role="CountryEuru" Type="Self.CountryEuru" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EUR">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="CountryEuru">
+              <PropertyRef Name="EuId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="BlogTravelModelStoreContainer">
+          <EntitySet Name="asia" EntityType="Self.asia" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CountryEuru" EntityType="Self.CountryEuru" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="EUR" EntityType="Self.EUR" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="menu" EntityType="Self.menu" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Country_asia" Association="Self.FK_Country_asia">
+            <End Role="asia" EntitySet="asia" />
+            <End Role="Country" EntitySet="Country" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CountryEuru_EUR" Association="Self.FK_CountryEuru_EUR">
+            <End Role="EUR" EntitySet="EUR" />
+            <End Role="CountryEuru" EntitySet="CountryEuru" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BlogTravelModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="asia">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="link" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="meta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="hide" Type="Boolean" />
+          <Property Name="order" Type="Int32" />
+          <Property Name="datebegin" Type="DateTime" Precision="0" />
+          <Property Name="IDmenu" Type="Int32" />
+          <NavigationProperty Name="Countries" Relationship="Self.FK_Country_asia" FromRole="asia" ToRole="Country" />
+        </EntityType>
+        <EntityType Name="Country">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="img" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="meta" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="hide" Type="Boolean" />
+          <Property Name="order" Type="Int32" />
+          <Property Name="datebigin" Type="DateTime" Precision="0" />
+          <Property Name="asiaId" Type="Int32" />
+          <NavigationProperty Name="asia" Relationship="Self.FK_Country_asia" FromRole="Country" ToRole="asia" />
+          <Property Name="description1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="menu">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="link" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="meta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="hide" Type="Boolean" />
+          <Property Name="order" Type="Int32" />
+          <Property Name="datebegin" Type="DateTime" Precision="0" />
+        </EntityType>
+        <Association Name="FK_Country_asia">
+          <End Role="asia" Type="Self.asia" Multiplicity="0..1" />
+          <End Role="Country" Type="Self.Country" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="asia">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="Country">
+              <PropertyRef Name="asiaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="BlogTravelEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="asias" EntityType="Self.asia" />
+          <EntitySet Name="Countries" EntityType="Self.Country" />
+          <EntitySet Name="menus" EntityType="Self.menu" />
+          <AssociationSet Name="FK_Country_asia" Association="Self.FK_Country_asia">
+            <End Role="asia" EntitySet="asias" />
+            <End Role="Country" EntitySet="Countries" />
+          </AssociationSet>
+          <EntitySet Name="CountryEurus" EntityType="BlogTravelModel.CountryEuru" />
+          <EntitySet Name="EURs" EntityType="BlogTravelModel.EUR" />
+          <AssociationSet Name="FK_CountryEuru_EUR" Association="BlogTravelModel.FK_CountryEuru_EUR">
+            <End Role="EUR" EntitySet="EURs" />
+            <End Role="CountryEuru" EntitySet="CountryEurus" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="CountryEuru">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="img" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="description" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="description1" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="hide" Type="Boolean" />
+          <Property Name="meta" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="order" Type="Int32" />
+          <Property Name="detebegin" Type="DateTime" Precision="0" />
+          <Property Name="EuId" Type="Int32" />
+          <NavigationProperty Name="EUR" Relationship="BlogTravelModel.FK_CountryEuru_EUR" FromRole="CountryEuru" ToRole="EUR" />
+        </EntityType>
+        <EntityType Name="EUR">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="link" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+          <Property Name="meta" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="hide" Type="Boolean" />
+          <Property Name="order" Type="Int32" />
+          <Property Name="datebegin" Type="DateTime" Precision="0" />
+          <Property Name="Idmenu" Type="Int32" />
+          <NavigationProperty Name="CountryEurus" Relationship="BlogTravelModel.FK_CountryEuru_EUR" FromRole="EUR" ToRole="CountryEuru" />
+        </EntityType>
+        <Association Name="FK_CountryEuru_EUR">
+          <End Type="BlogTravelModel.EUR" Role="EUR" Multiplicity="0..1" />
+          <End Type="BlogTravelModel.CountryEuru" Role="CountryEuru" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="EUR">
+              <PropertyRef Name="id" />
+            </Principal>
+            <Dependent Role="CountryEuru">
+              <PropertyRef Name="EuId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="BlogTravelModelStoreContainer" CdmEntityContainer="BlogTravelEntities1">
+          <EntitySetMapping Name="asias">
+            <EntityTypeMapping TypeName="BlogTravelModel.asia">
+              <MappingFragment StoreEntitySet="asia">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="link" ColumnName="link" />
+                <ScalarProperty Name="meta" ColumnName="meta" />
+                <ScalarProperty Name="hide" ColumnName="hide" />
+                <ScalarProperty Name="order" ColumnName="order" />
+                <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+                <ScalarProperty Name="IDmenu" ColumnName="IDmenu" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Countries">
+            <EntityTypeMapping TypeName="BlogTravelModel.Country">
+              <MappingFragment StoreEntitySet="Country">
+                <ScalarProperty Name="description1" ColumnName="description1" />
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="img" ColumnName="img" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="meta" ColumnName="meta" />
+                <ScalarProperty Name="hide" ColumnName="hide" />
+                <ScalarProperty Name="order" ColumnName="order" />
+                <ScalarProperty Name="datebigin" ColumnName="datebigin" />
+                <ScalarProperty Name="asiaId" ColumnName="asiaId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="menus">
+            <EntityTypeMapping TypeName="BlogTravelModel.menu">
+              <MappingFragment StoreEntitySet="menu">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="link" ColumnName="link" />
+                <ScalarProperty Name="meta" ColumnName="meta" />
+                <ScalarProperty Name="hide" ColumnName="hide" />
+                <ScalarProperty Name="order" ColumnName="order" />
+                <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CountryEurus">
+            <EntityTypeMapping TypeName="BlogTravelModel.CountryEuru">
+              <MappingFragment StoreEntitySet="CountryEuru">
+                <ScalarProperty Name="EuId" ColumnName="EuId" />
+                <ScalarProperty Name="detebegin" ColumnName="detebegin" />
+                <ScalarProperty Name="order" ColumnName="order" />
+                <ScalarProperty Name="meta" ColumnName="meta" />
+                <ScalarProperty Name="hide" ColumnName="hide" />
+                <ScalarProperty Name="description1" ColumnName="description1" />
+                <ScalarProperty Name="description" ColumnName="description" />
+                <ScalarProperty Name="img" ColumnName="img" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="EURs">
+            <EntityTypeMapping TypeName="BlogTravelModel.EUR">
+              <MappingFragment StoreEntitySet="EUR">
+                <ScalarProperty Name="Idmenu" ColumnName="Idmenu" />
+                <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+                <ScalarProperty Name="order" ColumnName="order" />
+                <ScalarProperty Name="hide" ColumnName="hide" />
+                <ScalarProperty Name="meta" ColumnName="meta" />
+                <ScalarProperty Name="link" ColumnName="link" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="id" ColumnName="id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

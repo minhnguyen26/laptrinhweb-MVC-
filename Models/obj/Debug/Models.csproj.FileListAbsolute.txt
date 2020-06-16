@@ -1,0 +1,60 @@
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\bin\Debug\Models.dll.config
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\bin\Debug\Models.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\bin\Debug\Models.pdb
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\bin\Debug\EntityFramework.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\bin\Debug\EntityFramework.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\obj\Debug\Models.dll
+C:\Users\Kim Thoa\Documents\Zalo Received Files\Blogger - Đồ Án Web\Blogger - Đồ Án Web\Models\obj\Debug\Models.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\bin\Debug\Models.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\bin\Debug\Models.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\bin\Debug\Models.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\bin\Debug\EntityFramework.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\bin\Debug\EntityFramework.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\obj\Debug\Models.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\Models\obj\Debug\Models.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\bin\Debug\Models.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\bin\Debug\Models.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\bin\Debug\Models.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\bin\Debug\EntityFramework.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\bin\Debug\EntityFramework.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\obj\Debug\Models.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master\web2\Models\obj\Debug\Models.pdb
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\bin\Debug\Models.dll.config
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\bin\Debug\Models.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\bin\Debug\Models.pdb
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\obj\Debug\Models.dll
+C:\Users\DELL\Downloads\Visual Studio\Đồ Án Web - Blogger\web2-master\Models\obj\Debug\Models.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\bin\Debug\Models.dll.config
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\bin\Debug\Models.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\bin\Debug\Models.pdb
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\bin\Debug\EntityFramework.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\bin\Debug\EntityFramework.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\obj\Debug\Models.dll
+C:\Users\Nhat Minh\OneDrive\Desktop\web2-master (1)\Models\obj\Debug\Models.pdb

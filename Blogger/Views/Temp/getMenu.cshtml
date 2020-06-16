@@ -1,0 +1,33 @@
+﻿
+@model IEnumerable<Blogger.Models.menu>
+<span class="menu"></span>
+
+<ul id="navigation">
+    @foreach (var i in Model)
+    {
+        if (i.meta == "dia-diem")
+        {
+            <li>
+                <a href="#">@i.name</a>
+                <ul class="submenu">
+                    @{ Html.RenderAction("getasia", "Default");}
+                </ul>
+            </li>
+        }
+        else if (i.meta == "dia-diemeu")
+        {
+            <li>
+                <a href="#">@i.name</a>
+                <ul class="submenu">
+                    @{ Html.RenderAction("geteu", "Default");}
+                </ul>
+            </li>
+        }
+        else
+        {
+            <li> <a href="#">@i.name</a></li>
+        }
+
+    }
+</ul>
+

@@ -1,0 +1,26 @@
+﻿@model List<Blogger.Models.CountryEuru>
+@foreach (var i in Model)
+{
+    <article class="blog_item">
+        <div class="blog_item_img">
+            <img class="card-img rounded-0" src="~/Content/img/countryeu/@i.img" href="/@ViewBag.meta/@i.meta/@i.id" alt="">
+            <a href="#" class="blog_item_date">
+                <h3>@i.detebegin</h3>
+
+            </a>
+        </div>
+
+        <div class="blog_details">
+            <a class="d-inline-block" href="/@ViewBag.meta/@i.meta/@i.id">
+                <h2 style="color: #2d2d2d;">@i.name</h2>
+            </a>
+            <p>
+                @i.description
+            </p>
+            <ul class="blog-info-link">
+                <li><a href="#"><i class="fa fa-user"></i> Travel, Lifestyle</a></li>
+                <li><a href="#"><i class="fa fa-comments"></i> 03 Comments</a></li>
+            </ul>
+        </div>
+    </article>
+}

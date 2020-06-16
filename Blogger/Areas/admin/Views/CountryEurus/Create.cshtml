@@ -1,0 +1,141 @@
+﻿@model Blogger.Models.CountryEuru
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Areas/admin/Views/Shared/_Mylayout.cshtml";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm("Create", "CountryEurus", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>CountryEuru</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.id, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.EuId, (SelectList)ViewBag.EUR, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.EuId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.img, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.img, new { htmlAttributes = new { @class = "form-control" } })*@
+                <input type="file" name="img" id="img" accept=".jpg,.png,.gif" />
+                @Html.ValidationMessageFor(model => model.img, "", new { @class = "text-danger" })
+            </div>
+           
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.description, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.description, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.TextAreaFor(model => model.description)
+
+                @Html.ValidationMessageFor(model => model.description, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.description1, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @*@Html.EditorFor(model => model.description1, new { htmlAttributes = new { @class = "form-control" } })*@
+                @Html.TextAreaFor(model => model.description1)
+
+                @Html.ValidationMessageFor(model => model.description1, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.hide, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.hide)
+                    @Html.ValidationMessageFor(model => model.hide, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.meta, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.meta, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.meta, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.order, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.order, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.order, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.detebegin, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.detebegin, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.detebegin, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.EuId, "EuId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("EuId", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.EuId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section _Footer
+{
+    <script src="~/Areas/admin/Content/cssadmin/ckfinder/ckfinder.js"></script>
+    <script src="~/Areas/admin/Content/cssadmin/ckeditor/ckeditor.js"></script>
+    <script type="text/javascript">
+        var editor = CKEDITOR.replace("description");
+        var editor = CKEDITOR.replace("description", { height: '600px' });
+        customConfig: '/Areas/admin/Content/cssadmin/ckeditor/config.js';
+    </script>
+    <script type="text/javascript">
+        var editor = CKEDITOR.replace("description1");
+        var editor = CKEDITOR.replace("description1", { height: '600px' });
+        customConfig: '/Areas/admin/Content/cssadmin/ckeditor/config.js';
+    </script>
+    <script>
+        $(function () {
+            $("#name").keyup(function () {
+                var text = $.trim($(this).val().toLowerCase());
+                var text_create;
+                text_create = text.replace(/à|á|ạ|ả|ã|â|ầ|ấ|ậ|ẩ|ẫ|ă|ằ|ắ|ặ|ẳ|ẵ/g, "a").replace(/\ /g, '-').replace(/đ/g, "d").replace(/đ/g, "d").replace(/ỳ|ý|ỵ|ỷ|ỹ/g, "y").replace(/ù|ú|ụ|ủ|ũ|ư|ừ|ứ|ự|ử|ữ/g, "u").replace(/ò|ó|ọ|ỏ|õ|ô|ồ|ố|ộ|ổ|ỗ|ơ|ờ|ớ|ợ|ở|ỡ.+/g, "o").replace(/è|é|ẹ|ẻ|ẽ|ê|ề|ế|ệ|ể|ễ.+/g, "e").replace(/ì|í|ị|ỉ|ĩ/g, "i");
+                $('#meta').val(text_create);
+            }).keyup();
+        });
+    </script>
+}

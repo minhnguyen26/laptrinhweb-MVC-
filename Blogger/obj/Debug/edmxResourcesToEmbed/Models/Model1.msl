@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BlogTravelModelStoreContainer" CdmEntityContainer="BlogTravelEntities">
+    <EntitySetMapping Name="asias">
+      <EntityTypeMapping TypeName="BlogTravelModel.asia">
+        <MappingFragment StoreEntitySet="asia">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+          <ScalarProperty Name="IDmenu" ColumnName="IDmenu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Countries">
+      <EntityTypeMapping TypeName="BlogTravelModel.Country">
+        <MappingFragment StoreEntitySet="Country">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="content" ColumnName="content" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebigin" ColumnName="datebigin" />
+          <ScalarProperty Name="asiaId" ColumnName="asiaId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="menus">
+      <EntityTypeMapping TypeName="BlogTravelModel.menu">
+        <MappingFragment StoreEntitySet="menu">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="link" ColumnName="link" />
+          <ScalarProperty Name="meta" ColumnName="meta" />
+          <ScalarProperty Name="hide" ColumnName="hide" />
+          <ScalarProperty Name="order" ColumnName="order" />
+          <ScalarProperty Name="datebegin" ColumnName="datebegin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
